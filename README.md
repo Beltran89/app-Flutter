@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="1024" height="480" src="https://github.com/Beltran89/app-Flutter/blob/master/Flutter.jpg" >
+  <img src="https://github.com/Beltran89/app-Flutter/blob/master/Flutter.jpg" >
 </p>
 # contador
 
